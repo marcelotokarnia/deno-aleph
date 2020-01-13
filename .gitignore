@@ -2,3 +2,6 @@
 Thumbs.db
 .aleph/
 dist/
+.env
+.envrc
+.deno_plugins
